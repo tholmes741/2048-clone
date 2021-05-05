@@ -1,0 +1,14 @@
+canvas {
+    /* width: 500px;
+    height: 500px; */
+    background: #bbada0;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+  
+body {
+    width: 500px;
+    margin: auto;
+    background-color: #faf8ef;
+}
+  
